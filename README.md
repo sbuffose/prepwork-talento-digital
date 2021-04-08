@@ -1,4 +1,4 @@
-## Bienvenido/a
+## Bienvenido/a a este Prep Work 💪
 
 A continuación encontras toda la información para iniciarte y conocer más del mundo de la programación y emprendedurismo! 🎉
 
