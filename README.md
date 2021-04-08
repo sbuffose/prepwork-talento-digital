@@ -11,63 +11,63 @@ Para recordar este repositorio, puedes destacarlo (con la '**ESTRELLA**' arriba 
   1. Introducción a la programación (Ruby)
       - Video:
       - Presentación:
-  2. Introducción al Front End (HTML y CSS)
-      - Video:
+  2. Introducción al Front End (HTML, CSS y JavaScript)
+      - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
+      - Clase 2 - 40 minutos: https://www.youtube.com/watch?v=cuPtZoqH-MA&t=87s
+      - Clase 3 - 40 minutos: http://www.youtube.com/watch?v=sHv46tjZ1bM&t=11m34s
+      - Clase 4 - 30 minutos: http://www.youtube.com/watch?v=agMPU0IOnCo&t=9m3s
       - Presentación:
   3. Introducción a Git y GitHub (Versionado)
-      - Video:
-      - Presentación:
+      - Video: http://www.youtube.com/watch?v=xZUAzSukXFs&t=4m20s
   4. Automatización de tareas (API)
-      - Video:
-      - Presentación:
-  5. Introducción al diseño de prototipos
-      - Video:
-      - Presentación:
+      - Video: https://www.youtube.com/watch?v=dODstJQVeZM
+  5. Introducción al diseño de producto digitales
+      - Video: https://www.youtube.com/watch?v=YKhAUaJKtqg
 
 
-## Contenido AVANZADO
+## Más Contenido (AVANZADO)
 
 Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a continuación hay 10 sesiones basadas en el curso de Ruby de [Codecademy](https://www.codecademy.com/learn/learn-ruby).
 ⚠️ **Las clases están grabadas en CASTELLANO, pero el curso de CodeAcademy está en inglés.**
 
-1. Indroducción a Ruby
-    - Clase grabada - Hacer click aquí para ver Video
+1. Introducción a Ruby
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
     - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/01_introduction.rb)
 
 2. Control del flujo de código en Ruby
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video]()
     - Archivo de ejercitación: [`Control del flujo - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/02_control_flow.rb)
 
 3. Iteradores en Ruby
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=E5aCG0VIt3M)
     - Archivo de ejercitación: [`Looping con Ruby - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/03_looping.rb)
 
 4. Estructura de datos
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=N9cNErAeC5c)
     - Archivo de ejercitación: [`Arrays y Hashes - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/04_arrays_and_hashes.rb)
 
 5. Trabajar con Bloques y Ordenar
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=UQTsuHhOpNY)
     - Archivo de ejercitación: [`Bloques y Orden - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/05_methods_and_blocks.rb)
 
 6. Más sobre Estructuras y Símbolos
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=UQTsuHhOpNY)
     - Archivo de ejercitación: [`Hashes y Symbols - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/06_hashes_and_symbols.rb)
 
 7. ¿Cómo mejorar el código? Refactorizar
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=4gF1K2y78x8)
     - Archivo de ejercitación: [`Refactorizar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/07_refractoring.rb)
 
 8. Este es un tema COMPLEJO - no asustarse o saltear!
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=a83sZAnoxgA)
     - Archivo de ejercitación: [`Procs and Lambdas - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/08_procks_and_lambdas.rb)
 
 9. Introducción a la Programación Orientada a Objetos
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=iEAgKrI8Fq4)
     - Archivo de ejercitación: [`Object-Oriented Programming, Primera parte - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/09_oop.rb)
 
 10. Más sobre Introducción a la Programación Orientada a Objetos
-    - Clase grabada - Hacer click aquí para ver Video
+    - Clase grabada - [Hacer click aquí para ver Video](https://youtu.be/5GYzxfRaYx4)
     - Archivo de ejercitación: [`Object-Oriented Programming, Segunda parte - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/10_oop.rb)
 
 
