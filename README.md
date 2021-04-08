@@ -74,7 +74,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
 En esta carpeta están disponibles las presentaciones del curso OPCIONAL de preparación: [`CLICK AQUÍ PARA VER CARPETA`](https://github.com/sbuffose/prepwork-talento-digital/tree/master/slides)
 
 
-#### AVANZADOS - Utilizar `REPL` para ejercitar:
+## AVANZADOS - Utilizar `REPL` para ejercitar:
 
 Podrás utilizar un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) para ver e interactuar con el código que compartimos en cada clase grabada.
 
