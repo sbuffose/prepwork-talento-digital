@@ -32,46 +32,43 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
 
 1. Introducción a Ruby
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
-    - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/01_introduction.rb)
+    - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 2. Control del flujo de código en Ruby
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=W9Sue0YxPCg)
-    - Archivo de ejercitación: [`Control del flujo - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/02_control_flow.rb)
+    - Archivo de ejercitación: [`Control del flujo - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 3. Iteradores en Ruby
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=E5aCG0VIt3M)
-    - Archivo de ejercitación: [`Looping con Ruby - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/03_looping.rb)
+    - Archivo de ejercitación: [`Looping con Ruby - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 4. Estructura de datos
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=N9cNErAeC5c)
-    - Archivo de ejercitación: [`Arrays y Hashes - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/04_arrays_and_hashes.rb)
+    - Archivo de ejercitación: [`Arrays y Hashes - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 5. Trabajar con Bloques y Ordenar
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=UQTsuHhOpNY)
-    - Archivo de ejercitación: [`Bloques y Orden - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/05_methods_and_blocks.rb)
+    - Archivo de ejercitación: [`Bloques y Orden - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 6. Más sobre Estructuras y Símbolos
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=UQTsuHhOpNY)
-    - Archivo de ejercitación: [`Hashes y Symbols - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/06_hashes_and_symbols.rb)
+    - Archivo de ejercitación: [`Hashes y Symbols - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 7. ¿Cómo mejorar el código? Refactorizar
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=4gF1K2y78x8)
-    - Archivo de ejercitación: [`Refactorizar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/07_refractoring.rb)
+    - Archivo de ejercitación: [`Refactorizar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 8. Este es un tema COMPLEJO - no asustarse o saltear!
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=a83sZAnoxgA)
-    - Archivo de ejercitación: [`Procs and Lambdas - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/08_procks_and_lambdas.rb)
+    - Archivo de ejercitación: [`Procs and Lambdas - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 9. Introducción a la Programación Orientada a Objetos
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=iEAgKrI8Fq4)
-    - Archivo de ejercitación: [`Object-Oriented Programming, Primera parte - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/09_oop.rb)
+    - Archivo de ejercitación: [`Object-Oriented Programming, Primera parte - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 10. Más sobre Introducción a la Programación Orientada a Objetos
     - Clase grabada - [Hacer click aquí para ver Video](https://youtu.be/5GYzxfRaYx4)
-    - Archivo de ejercitación: [`Object-Oriented Programming, Segunda parte - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/10_oop.rb)
-
-
-En esta carpeta están disponibles las presentaciones del curso OPCIONAL de preparación: [`CLICK AQUÍ PARA VER CARPETA`](https://github.com/sbuffose/prepwork-talento-digital/tree/master/slides)
+    - Archivo de ejercitación: [`Object-Oriented Programming, Segunda parte - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 
 ## AVANZADOS - Utilizar `REPL` para ejercitar:
