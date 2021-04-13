@@ -45,8 +45,8 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=N9cNErAeC5c)
     - Archivo de ejercitación: [`Arrays y Hashes - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
-5. Trabajar con Bloques y Ordenar
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=UQTsuHhOpNY)
+5. Trabajar con Bloques y Métodos
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=rx4JQexCUOE)
     - Archivo de ejercitación: [`Bloques y Orden - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 6. Más sobre Estructuras y Símbolos
