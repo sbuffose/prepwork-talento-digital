@@ -9,8 +9,7 @@ Para recordar este repositorio, puedes destacarlo (con la '**ESTRELLA**' arriba 
 
 ## Contenido
   1. Introducción a la programación (Ruby)
-      - Video:
-      - Presentación:
+      - Video: https://www.youtube.com/watch?v=RUppS0Vg-WI
   2. Introducción al Front End (HTML, CSS y JavaScript)
       - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
       - Clase 2 - 40 minutos: https://www.youtube.com/watch?v=cuPtZoqH-MA&t=87s
@@ -31,7 +30,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
 ⚠️ **Las clases están grabadas en CASTELLANO, pero el curso de CodeAcademy está en inglés.**
 
 1. Introducción a Ruby
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
+    - Clase grabada (primera clase anterior) - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
     - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 2. Control del flujo de código en Ruby
