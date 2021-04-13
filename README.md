@@ -35,7 +35,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
     - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/01_introduction.rb)
 
 2. Control del flujo de código en Ruby
-    - Clase grabada - [Hacer click aquí para ver Video]()
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=W9Sue0YxPCg)
     - Archivo de ejercitación: [`Control del flujo - Click aquí para ejercitar`](https://github.com/sbuffose/prepwork-talento-digital/blob/master/02_control_flow.rb)
 
 3. Iteradores en Ruby
