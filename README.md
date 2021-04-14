@@ -9,7 +9,8 @@ Para recordar este repositorio, puedes destacarlo (con la '**ESTRELLA**' arriba 
 
 ## Contenido
   1. Introducción a la programación (Ruby)
-      - Video: https://www.youtube.com/watch?v=RUppS0Vg-WI
+      - Charla introductoria del curso que dictamos hace un tiempo, que aplica a este pre-curso: http://www.youtube.com/watch?v=6ugvHHw6q_E
+      - En caso de querer seguir con Ruby, ir a -> **Más Contenido**
   2. Introducción al Front End (HTML, CSS y JavaScript)
       - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
       - Clase 2 - 40 minutos: https://www.youtube.com/watch?v=cuPtZoqH-MA&t=87s
@@ -30,7 +31,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
 ⚠️ **Las clases están grabadas en CASTELLANO, pero el curso de CodeAcademy está en inglés.**
 
 1. Introducción a Ruby
-    - Clase grabada (primera clase anterior) - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=RUppS0Vg-WI)
     - Archivo de ejercitación: [`Introducción a Ruby - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 2. Control del flujo de código en Ruby
@@ -38,11 +39,11 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
     - Archivo de ejercitación: [`Control del flujo - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 3. Iteradores en Ruby
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=E5aCG0VIt3M)
+    - Clase grabada - [Hacer click aquí para ver Video](http://www.youtube.com/watch?v=E5aCG0VIt3M&t=4m5s)
     - Archivo de ejercitación: [`Looping con Ruby - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 4. Estructura de datos
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=N9cNErAeC5c)
+    - Clase grabada - [Hacer click aquí para ver Video](http://www.youtube.com/watch?v=N9cNErAeC5c&t=5m48s)
     - Archivo de ejercitación: [`Arrays y Hashes - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 5. Trabajar con Bloques y Métodos
@@ -54,7 +55,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
     - Archivo de ejercitación: [`Hashes y Symbols - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 7. ¿Cómo mejorar el código? Refactorizar
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=4gF1K2y78x8)
+    - Clase grabada - [Hacer click aquí para ver Video](http://www.youtube.com/watch?v=4gF1K2y78x8&t=1m40s)
     - Archivo de ejercitación: [`Refactorizar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 8. Este es un tema COMPLEJO - no asustarse o saltear!
@@ -62,12 +63,16 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
     - Archivo de ejercitación: [`Procs and Lambdas - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 9. Introducción a la Programación Orientada a Objetos
-    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=iEAgKrI8Fq4)
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=T70TT2INq1A)
     - Archivo de ejercitación: [`Object-Oriented Programming, Primera parte - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
 
 10. Más sobre Introducción a la Programación Orientada a Objetos
-    - Clase grabada - [Hacer click aquí para ver Video](https://youtu.be/5GYzxfRaYx4)
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=ggYo4CfcQ_Y)
     - Archivo de ejercitación: [`Object-Oriented Programming, Segunda parte - Click aquí para ejercitar`](https://replit.com/@sbuffosempe/prepwork-talento-digital)
+
+11. Clase extra sobre Programación Orientada a Objetos
+    - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=yA1uKsbJiGI)
+
 
 
 ## AVANZADOS - Utilizar `REPL` para ejercitar:
