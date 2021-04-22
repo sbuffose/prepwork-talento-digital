@@ -79,7 +79,7 @@ Si te sientes cómodo/a con el contenido anterior, y quieren avanzar más, a con
 
 Podrás utilizar un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) para ver e interactuar con el código que compartimos en cada clase grabada.
 
-Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una vez que haya iniciado sesión, regresa acá y hace click en este botón 👉 [![ejecutar en Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everyone)](https://repl.it/@SebastianBuffo/prepwork-talento-digital) para abrir este `repositorio`, y luego hacer click en [**'fork'**]() para guardar una copia en su colección personal de REPLs.
+Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una vez que haya iniciado sesión, regresa acá y hace click en este botón 👉 [![ejecutar en Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everyone)](https://replit.com/@sbuffosempe/prepwork-talento-digital) para abrir este `repositorio`, y luego hacer click en **'fork'** para guardar una copia en su colección personal de REPLs.
 
 ![](https://github.com/sbuffose/prepwork-talento-digital/raw/master/images/repl1.png)
 
